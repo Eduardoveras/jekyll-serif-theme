@@ -2,6 +2,8 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
+baseurl: "/jekyll-serif-theme" # the subpath of your site, e.g. /blog
+
 
 collections:
   services:
